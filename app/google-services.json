@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116422212786",
+    "project_id": "playstocknotification-16a91",
+    "storage_bucket": "playstocknotification-16a91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116422212786:android:f7bf7ac3e1f9c3abad1dab",
+        "android_client_info": {
+          "package_name": "com.jyohuang.playstocknotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJYzLOrOc9OX6a7oV_dwyNZhU9ABB-WZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
